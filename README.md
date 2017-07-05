@@ -1,5 +1,7 @@
-#Learning GIT
+# Learning GIT
 
-##Jasmine Kaur
+## Jasmine Kaur
 
 Software Consultant
+
+SGTB Khalsa College, University Of Delhi
