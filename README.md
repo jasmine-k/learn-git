@@ -1,5 +1,5 @@
-#Learning GIT
+# Learning GIT
 
-##Jasmine Kaur
+## Jasmine Kaur
 
-Software Consultant
+Jasmine Kaur - jasmine-k - Software Consultant
