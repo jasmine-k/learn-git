@@ -2,4 +2,4 @@
 
 ##Jasmine Kaur
 
-Software Consultant
+Software Consultant at Knoldus LLP
